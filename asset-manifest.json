@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/bible-verses-api/static/js/main.0fb414ef.chunk.js",
+    "main.js.map": "/bible-verses-api/static/js/main.0fb414ef.chunk.js.map",
+    "runtime~main.js": "/bible-verses-api/static/js/runtime~main.4c52f9af.js",
+    "runtime~main.js.map": "/bible-verses-api/static/js/runtime~main.4c52f9af.js.map",
+    "static/js/2.cd2a726b.chunk.js": "/bible-verses-api/static/js/2.cd2a726b.chunk.js",
+    "static/js/2.cd2a726b.chunk.js.map": "/bible-verses-api/static/js/2.cd2a726b.chunk.js.map",
+    "index.html": "/bible-verses-api/index.html",
+    "precache-manifest.a2761df16464fd0b7ff37cc15221527a.js": "/bible-verses-api/precache-manifest.a2761df16464fd0b7ff37cc15221527a.js",
+    "service-worker.js": "/bible-verses-api/service-worker.js"
+  }
+}
